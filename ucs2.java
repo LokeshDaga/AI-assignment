@@ -47,7 +47,7 @@ return -1;
 			{
 				System.out.print(f.c[i][j]+" ");
 			}
-			System.out.println();
+			System.out.print("\n");
 		}
 		System.out.print(f.cost);
 	}
