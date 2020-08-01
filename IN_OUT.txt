@@ -1,0 +1,99 @@
+minmax.cpp
+
+
+AI vs AI
+
+------------------------------GAME----------------------------
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+3
+Enter no. of Sticks
+6
+RULE :  Enter no. between 1 and 3
+toss
+CPU 1 won toss
+-----------------------------start-----------------------------
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  5
+CPU 2 chance
+CPU 2 selects : 1
+Remaining Sticks :  4
+CPU 1 chance
+CPU 1 selects : 3
+Remaining Sticks :  1
+CPU 2 lost
+-------------------GAME OVER---------------
+
+
+AI vs HUMAN
+
+------------------------------GAME----------------------------
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+2
+Enter no. of Sticks
+5
+RULE :  Enter no. between 1 and 3
+toss
+Player won toss
+--------start--------
+Player chance
+3
+Remaining Sticks :  2
+CPU chance
+CPU selects : 1
+Remaining Sticks :  1
+Player lost
+-------------------GAME OVER---------------
+
+
+HUMAN VS HUMAN
+
+------------------------------GAME----------------------------
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+1
+Enter no. of Sticks
+5
+RULE :  Enter no. between 1 and 3
+toss
+Player 1 won toss
+--------start--------
+Player 1 chance
+1
+Remaining Sticks :  4
+Player 2 chance
+3
+Remaining Sticks :  1
+Player 1 lost
+-------------------GAME OVER---------------
+heuristic_8queen.java
+
+1 0 0 0 0 0 0 0                                                 
+0 0 0 0 1 0 0 0                                                
+0 0 0 0 0 0 0 1                                                
+0 0 0 0 0 1 0 0                                                
+0 0 1 0 0 0 0 0                                                
+0 0 0 0 0 0 1 0                                                
+0 1 0 0 0 0 0 0                                                
+0 0 0 1 0 0 0 0                                              
+8
+
+UCS2.java
+
+1 0 0 0 0 0 0 0                                                 
+0 0 0 0 0 1 0 0                                                 
+0 0 0 0 0 0 0 1                                                 
+0 0 1 0 0 0 0 0                                                 
+0 0 0 0 0 0 1 0                                    
+0 0 0 1 0 0 0 0                                                 
+0 1 0 0 0 0 0 0                          
+0 0 0 0 1 0 0 0           
+8
